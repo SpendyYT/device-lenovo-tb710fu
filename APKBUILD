@@ -24,6 +24,7 @@ depends="
 	firmware-lenovo-tb710fu
 	linux-firmware-qcom
 	linux-firmware-qca
+	linux-firmware-ath12k
 	postmarketos-base
 	make-dynpart-mappings
 	mesa-vulkan-freedreno

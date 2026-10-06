@@ -14,7 +14,7 @@ deviceinfo_arch="aarch64"
 # Device related
 deviceinfo_chassis="tablet"
 deviceinfo_external_storage="false"
-deviceinfo_kernel_cmdline="clk_ignore_unused pd_ignore_unused console=tty0 fw_devlink=off"
+deviceinfo_kernel_cmdline="clk_ignore_unused pd_ignore_unused console=tty0"
 deviceinfo_flash_pagesize="4096"
 deviceinfo_generate_bootimg="true"
 deviceinfo_header_version="2"
